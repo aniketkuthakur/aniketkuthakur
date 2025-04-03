@@ -1,3 +1,6 @@
+![LinkedIn Banner]()
+
+
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">||A passionate Data Analytics📶||</h3>
 
