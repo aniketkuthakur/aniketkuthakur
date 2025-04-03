@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">||A passionate Data Analytics📶||</h3>
+<img src="https://lottiefiles.com/free-animation/site-analytics-dashboard-site-stats-concept-illustration-business-analytics-CzeY4MKRxZ?trigger_action=download" width="400" height="250"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkuthakur&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkuthakur" /> </p>
 
