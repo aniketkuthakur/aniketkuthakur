@@ -1,4 +1,4 @@
-![LinkedIn Banner]()
+![LinkedIn Banner](https://github.com/aniketkuthakur/aniketkuthakur/blob/main/linkedin%20banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
