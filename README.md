@@ -1,5 +1,5 @@
-![LinkedIn Banner](https://github.com/aniketkuthakur/aniketkuthakur/blob/main/linkedin%20banner.jpg)
-
+![LinkedIn Banner]()
+https://github.com/aniketkuthakur/aniketkuthakur/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image_20250416_202700_0000.png
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">||A passionate Data Analytics📶||</h3>
